@@ -1,61 +1,69 @@
-# Stoploss Checker
+# SECURITY-Z
+(ENCRYPTION AND DECRYPTION OF FILE)
+
 ---
-Stoploss Checker is an app which can store your Share list and shows you is the stoploss is hit or not.
+“Security-Z (encryption and Decryption of files)”is the crucial technology component that enable various features in a single software like Encrypt, Decrypt, Zip, Unzip and Send email.
+“Security-Z (encryption and Decryption of files)” capable for serving around any given time with full reliability and sustainable performance level.
 
-It takes input in search bar and sealect the Stock of your choice from the Recycleview. it automatically fills the following textinputs which are
-  - Stock name 
-  - Stock Symbol
+ - Performing user authorization before allowing user to actually start & utilize the services.
+  - Maintaining personal information
+
+## **SCOPE OF SYSTEM**
+
+-	Our System is helpful for individual user Or any Company  to secure their data by encrypting it.
  
-##### **Then user can type input for**
- - Purchace price
-  - Stoploss
+-	This system helps to Encrypt and Decrypt the Files.
   
+-	This system also provides facility to Zip file/folder and Unzip the zipped file.
 
+-	The another feature of this system is that we can send email with out opening any browser.
 
-# Features!
+ 
+## **OBJECTIVES**
 
-  - Add Stock
-  - Remove Stock
-  - Check Stoploss
-  - The data will be saved in device as well as on the Google [Firebase storage](https://firebase.google.com/docs/storage/web/start#:~:text=Cloud%20Storage%20for%20Firebase%20lets,high%20availability%20and%20global%20redundancy.)
-  - If user changes the device he/she can login from there and access the data anywhere any time
-  - Easy to use
+ - To Secure Data by Encrypting it.
+  - Quick service to User.
+  - Frictionless Client-Bussiness Interaction.
+  - Keep security of data. 
+  - Encrypted files can be zipped together and send via email .
+  
+  
   
 # The Screen UI
 
-### Presplash Screen:
+### Splash Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/Presplash%20_Screen.png?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="300" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/1.Welcome.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Signin Screen:
+### Login Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/Signin_Screen.png?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Login.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Navigation Drawer:
+### Signup Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/VideoToGif/Nevigation%20draw-1610739517264.gif?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Signup.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Option Screen:
+### Home Screen:
 <p align="center">
-  <img width="300" height=600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/Option_Screen.png?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="400" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/3.Home.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Add Stock Screen:
+### Encryption Screen:
 
 <p align="center">
-  <img width="300" height=600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/VideoToGif/Add%20Stock-1610739418035.gif?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="400" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/4.Encryption.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Remove Stock Screen:
+### Encryption With DES Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/VideoToGif/Remove%20Stock-1610739244962.gif?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="400" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Check Stoploss Screen:
