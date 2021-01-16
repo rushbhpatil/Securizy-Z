@@ -40,13 +40,13 @@
 ### Login:
 
 <p align="center">
-  <img width="450" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Login.JPG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Login.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Signup:
 
 <p align="center">
-  <img width="450" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Signup.JPG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Signup.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Home:
@@ -57,91 +57,91 @@
 ### Encryption:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/4.Encryption.JPG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/4.Encryption.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Encryption With DES:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Encryption With DES:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Encryption With AES:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/6.Encryption%20With%20AES.JPG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/6.Encryption%20With%20AES.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Decryption:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/7.Decryption.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/7.Decryption.JPG?raw=true"/>
 </p>
 
 ### Decryption With DES:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/8.Decryption%20With%20DES.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/8.Decryption%20With%20DES.JPG?raw=true"/>
 </p>
 
 ###  Decryption With AES:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/9.Decryption%20With%20AES.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/9.Decryption%20With%20AES.JPG?raw=true"/>
 </p>
 
 ### Settings:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/10.Settings.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/10.Settings.JPG?raw=true"/>
 </p>
 
 ### Profile Setting:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/11.Profile%20Setting.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/11.Profile%20Setting.JPG?raw=true"/>
 </p>
 
 ### Change Profile:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/12.Change%20Profile.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/12.Change%20Profile.JPG?raw=true"/>
 </p>
 
 ### Password Setting:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/13.Password%20Setting.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/13.Password%20Setting.JPG?raw=true"/>
 </p>
 
 ### Reset Account:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/14.Reset%20account.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/14.Reset%20account.JPG?raw=true"/>
 </p>
 
 ### Login for reset account:
 
 <p align="center">
-  <img width="450" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/15.Login%20for%20reset%20account.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/15.Login%20for%20reset%20account.JPG?raw=true"/>
 </p>
 
 ### Zip:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/16._Zip.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/16._Zip.JPG?raw=true"/>
 </p>
 
 ### Unzip:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/17.Unzip.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/17.Unzip.JPG?raw=true"/>
 </p>
 
 ### Send Mail Login:
@@ -159,11 +159,11 @@
 ### Learning:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/20.Learning.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/20.Learning.JPG?raw=true"/>
 </p>
 
 ### Profile:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/21.Profile.JPG?raw=true"/>
+  <img src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/21.Profile.JPG?raw=true"/>
 </p>
