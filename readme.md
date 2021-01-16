@@ -34,42 +34,168 @@
 ### Splash Screen:
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/1.Welcome.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="350" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/1.Welcome.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Login Screen:
+### Login:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Login.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="350" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Login.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Signup Screen:
+### Signup:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Signup.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="350" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Signup.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Home Screen:
+### Home:
 <p align="center">
-  <img width="600" height="400" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/3.Home.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/3.Home.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Encryption Screen:
+### Encryption:
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/4.Encryption.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/4.Encryption.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With AES:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/6.Encryption%20With%20AES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Decryption:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/7.Decryption.JPG?raw=true"/>
+</p>
+
+### Decryption With DES:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/8.Decryption%20With%20DES.JPG?raw=true"/>
+</p>
+
+###  Decryption With AES:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/9.Decryption%20With%20AES.JPG?raw=true"/>
+</p>
+
+### Settings:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/10.Settings.JPG?raw=true"/>
+</p>
+
+### Profile Setting:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/11.Profile%20Setting.JPG?raw=true"/>
+</p>
+
+### Change Profile:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/12.Change%20Profile.JPG?raw=true"/>
+</p>
+
+### Password Setting:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/13.Password%20Setting.JPG?raw=true"/>
+</p>
+
+### Reset Account:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/14.Reset%20account.JPG?raw=true"/>
 </p>
 
 ### Encryption With DES Screen:
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Check Stoploss Screen:
+### Encryption With DES Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/VideoToGif/Check%20Stoploss-1610739321849.gif?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Encryption With DES Screen:
+
+<p align="center">
+  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/5.Encryption%20With%20DES.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
