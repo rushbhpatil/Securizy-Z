@@ -34,19 +34,19 @@
 ### Splash Screen:
 
 <p align="center">
-  <img width="600" height="450" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/1.Welcome.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="600" height="350" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/1.Welcome.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Login:
 
 <p align="center">
-  <img width="350" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Login.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="450" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Login.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Signup:
 
 <p align="center">
-  <img width="350" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Signup.JPG?raw=true" alt="Sublime's custom image"/>
+  <img width="450" height="600" src="https://github.com/rushbhpatil/Securizy-Z/blob/master/MD%20docs/2.Signup.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ### Home:
